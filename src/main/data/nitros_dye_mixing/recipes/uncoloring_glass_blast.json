@@ -1,0 +1,12 @@
+{
+  "group": "glass",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "tag": "forge:stained_glass"
+  },
+  "result": {
+    "item": "minecraft:glass"
+  }
+}

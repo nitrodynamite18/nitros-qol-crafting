@@ -1,0 +1,20 @@
+{
+  "group": "jack_o_lantern",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "1": {
+      "tag": "torches"
+    }
+  },
+  "result": {
+    "item": "minecraft:jack_o_lantern",
+    "count": 1
+  }
+}

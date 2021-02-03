@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "glass",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.STAINED_GLASS"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.GLASS"
+    },
+    "name": "uncoloring_glass_furnace",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "orange_dye",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "orange_ingredients"
+    }
+  ],
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 1
+  }
+}

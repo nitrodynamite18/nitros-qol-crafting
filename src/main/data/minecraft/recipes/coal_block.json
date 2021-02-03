@@ -1,0 +1,42 @@
+{
+  "group": "coal_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "coals"
+    },
+    "1": {
+      "tag": "coals"
+    },
+    "2": {
+      "tag": "coals"
+    },
+    "3": {
+      "tag": "coals"
+    },
+    "4": {
+      "tag": "coals"
+    },
+    "5": {
+      "tag": "coals"
+    },
+    "6": {
+      "tag": "coals"
+    },
+    "7": {
+      "tag": "coals"
+    },
+    "8": {
+      "tag": "coals"
+    }
+  },
+  "result": {
+    "item": "minecraft:coal_block",
+    "count": 1
+  }
+}

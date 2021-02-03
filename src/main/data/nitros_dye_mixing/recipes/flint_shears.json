@@ -1,0 +1,20 @@
+{
+  "group": "shears",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:flint"
+    },
+    "2": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "minecraft:shears",
+    "count": 1
+  }
+}

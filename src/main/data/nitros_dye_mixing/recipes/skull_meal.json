@@ -1,0 +1,13 @@
+{
+  "group": "bone_meal",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:heads"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 8
+  }
+}

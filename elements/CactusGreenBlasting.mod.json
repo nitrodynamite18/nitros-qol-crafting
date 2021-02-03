@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 0.2,
+    "cookingTime": 40,
+    "recipeRetstackSize": 1,
+    "group": "green_dye",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "Blocks.CACTUS"
+    },
+    "blastingReturnStack": {
+      "value": "Items.DYE#2"
+    },
+    "name": "cactus_green_blasting",
+    "namespace": "minecraft"
+  }
+}

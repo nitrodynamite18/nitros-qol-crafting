@@ -1,0 +1,16 @@
+{
+  "group": "pistons",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "sticky"
+    },
+    {
+      "item": "minecraft:piston"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sticky_piston",
+    "count": 1
+  }
+}

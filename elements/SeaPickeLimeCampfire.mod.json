@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 0.2,
+    "cookingTime": 240,
+    "recipeRetstackSize": 1,
+    "group": "lime_dye",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Blocks.SEA_PICKLE"
+    },
+    "campfireCookingReturnStack": {
+      "value": "Items.DYE#10"
+    },
+    "name": "sea_picke_lime_campfire",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "red_dye",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "red_ingredients"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 1
+  }
+}

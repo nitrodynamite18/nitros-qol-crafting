@@ -1,0 +1,1 @@
+advancement grant @a from nitros_qol_crafting

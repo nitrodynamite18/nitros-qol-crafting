@@ -1,0 +1,13 @@
+{
+  "group": "magenta_dye",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 4
+  }
+}

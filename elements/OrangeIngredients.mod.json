@@ -1,0 +1,25 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.RED_FLOWER#5"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "Items.PUMPKIN_SEEDS"
+      },
+      {
+        "value": "Items.HONEYCOMB"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "orange_ingredients",
+    "namespace": "mod"
+  }
+}

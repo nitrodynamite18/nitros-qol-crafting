@@ -1,0 +1,12 @@
+{
+  "group": "black_dye",
+  "type": "minecraft:smelting",
+  "experience": 0.2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:bone_meal"
+  },
+  "result": {
+    "item": "minecraft:black_dye"
+  }
+}

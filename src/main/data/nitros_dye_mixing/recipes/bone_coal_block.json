@@ -1,0 +1,12 @@
+{
+  "group": "coal_block",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "minecraft:bone_block"
+  },
+  "result": {
+    "item": "minecraft:coal_block"
+  }
+}

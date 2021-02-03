@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.2,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "black_dye",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.DYE#15"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.DYE#16"
+    },
+    "name": "bone_meal_black_dye",
+    "namespace": "mod"
+  }
+}

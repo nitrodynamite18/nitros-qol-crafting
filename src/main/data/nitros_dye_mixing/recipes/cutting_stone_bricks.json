@@ -1,0 +1,9 @@
+{
+  "group": "stone",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "stone_bricks"
+  },
+  "result": "minecraft:stone"
+}

@@ -1,0 +1,42 @@
+{
+  "group": "skulls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone_meal"
+    },
+    "1": {
+      "item": "minecraft:bone_meal"
+    },
+    "2": {
+      "item": "minecraft:bone_meal"
+    },
+    "3": {
+      "item": "minecraft:bone_meal"
+    },
+    "4": {
+      "tag": "black_ingredients"
+    },
+    "5": {
+      "item": "minecraft:bone_meal"
+    },
+    "6": {
+      "item": "minecraft:bone_meal"
+    },
+    "7": {
+      "item": "minecraft:bone_meal"
+    },
+    "8": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_skull",
+    "count": 1
+  }
+}

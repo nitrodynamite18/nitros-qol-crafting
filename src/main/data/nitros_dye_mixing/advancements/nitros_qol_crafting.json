@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:emerald_block"
+    },
+    "title": "Nitro's QOL Crafting",
+    "description": "You've installed Nitro's QOL Crafting data pack. Leave ideas for future recipes in the comments of the PMC download page.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "nitros_qol_crafting": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 18,
+    "function": "nitros_dye_mixing:load"
+  }
+}

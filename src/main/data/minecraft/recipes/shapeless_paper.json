@@ -1,0 +1,19 @@
+{
+  "group": "paper",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "paper_ingredients"
+    },
+    {
+      "tag": "paper_ingredients"
+    },
+    {
+      "tag": "paper_ingredients"
+    }
+  ],
+  "result": {
+    "item": "minecraft:paper",
+    "count": 3
+  }
+}

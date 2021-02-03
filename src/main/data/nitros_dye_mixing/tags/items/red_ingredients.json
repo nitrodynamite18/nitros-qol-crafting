@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:poppy",
+    "minecraft:red_tulip",
+    "minecraft:beetroot",
+    "minecraft:sweet_berries",
+    "minecraft:redstone"
+  ]
+}

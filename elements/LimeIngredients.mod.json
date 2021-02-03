@@ -1,0 +1,16 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.SLIME_BALL"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "lime_ingredients",
+    "namespace": "mod"
+  }
+}

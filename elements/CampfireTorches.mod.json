@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 0.1,
+    "cookingTime": 20,
+    "recipeRetstackSize": 1,
+    "group": "torches",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Items.STICK"
+    },
+    "campfireCookingReturnStack": {
+      "value": "Blocks.TORCH"
+    },
+    "name": "campfire_torches",
+    "namespace": "mod"
+  }
+}

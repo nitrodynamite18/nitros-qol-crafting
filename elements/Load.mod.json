@@ -1,0 +1,9 @@
+{
+  "_fv": 13,
+  "_type": "function",
+  "definition": {
+    "code": "advancement grant @a from nitros_qol_crafting",
+    "name": "load",
+    "namespace": "mod"
+  }
+}

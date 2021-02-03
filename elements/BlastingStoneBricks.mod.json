@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "stone",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:stone_bricks"
+    },
+    "blastingReturnStack": {
+      "value": "Blocks.STONE#0"
+    },
+    "name": "blasting_stone_bricks",
+    "namespace": "mod"
+  }
+}

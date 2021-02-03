@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#1"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "coals",
+    "namespace": "mod"
+  }
+}

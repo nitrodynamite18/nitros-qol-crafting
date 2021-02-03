@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 0.2,
+    "cookingTime": 20,
+    "recipeRetstackSize": 1,
+    "group": "lime_dye",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Blocks.SEA_PICKLE"
+    },
+    "smokingReturnStack": {
+      "value": "Items.DYE#10"
+    },
+    "name": "sea_pickle_lime_smoking",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "torches",
+    "namespace": "mod"
+  }
+}

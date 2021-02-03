@@ -1,0 +1,20 @@
+{
+  "group": "skulls",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "tag": "black_ingredients"
+    },
+    "1": {
+      "tag": "forge:heads"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_skull",
+    "count": 1
+  }
+}

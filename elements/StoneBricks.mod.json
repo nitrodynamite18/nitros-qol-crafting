@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.STONEBRICK#2"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "stone_bricks",
+    "namespace": "mod"
+  }
+}

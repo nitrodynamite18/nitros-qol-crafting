@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 2.0,
+    "cookingTime": 300,
+    "recipeRetstackSize": 1,
+    "group": "coal_block",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.BONE_BLOCK"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "name": "bone_coal_block",
+    "namespace": "mod"
+  }
+}

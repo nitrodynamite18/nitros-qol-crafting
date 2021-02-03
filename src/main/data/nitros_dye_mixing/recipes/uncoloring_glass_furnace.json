@@ -1,0 +1,12 @@
+{
+  "group": "glass",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "tag": "forge:stained_glass"
+  },
+  "result": {
+    "item": "minecraft:glass"
+  }
+}

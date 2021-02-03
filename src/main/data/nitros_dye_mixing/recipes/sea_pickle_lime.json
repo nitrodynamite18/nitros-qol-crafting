@@ -1,0 +1,12 @@
+{
+  "group": "lime_dye",
+  "type": "minecraft:smelting",
+  "experience": 0.2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:sea_pickle"
+  },
+  "result": {
+    "item": "minecraft:lime_dye"
+  }
+}

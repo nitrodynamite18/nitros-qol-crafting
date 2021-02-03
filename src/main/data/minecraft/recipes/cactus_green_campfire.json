@@ -1,0 +1,12 @@
+{
+  "group": "green_dye",
+  "type": "minecraft:campfire_cooking",
+  "experience": 0.2,
+  "cookingtime": 240,
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": {
+    "item": "minecraft:green_dye"
+  }
+}

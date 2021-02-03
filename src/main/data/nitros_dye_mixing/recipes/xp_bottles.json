@@ -1,0 +1,42 @@
+{
+  "group": "xp_bottle",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_bottle"
+    },
+    "1": {
+      "item": "minecraft:glass_bottle"
+    },
+    "2": {
+      "item": "minecraft:glass_bottle"
+    },
+    "3": {
+      "item": "minecraft:glass_bottle"
+    },
+    "4": {
+      "item": "minecraft:lapis_block"
+    },
+    "5": {
+      "item": "minecraft:glass_bottle"
+    },
+    "6": {
+      "item": "minecraft:glass_bottle"
+    },
+    "7": {
+      "item": "minecraft:glass_bottle"
+    },
+    "8": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 8
+  }
+}

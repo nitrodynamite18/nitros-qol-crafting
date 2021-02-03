@@ -1,0 +1,801 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WhiteIngredients",
+      "type": "tag",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_ingredients"
+    },
+    {
+      "name": "BetterWhiteDye",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_white_dye"
+    },
+    {
+      "name": "OrangeMixing",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_mixing"
+    },
+    {
+      "name": "OrangeIngredients",
+      "type": "tag",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_ingredients"
+    },
+    {
+      "name": "BetterOrangeDye",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_orange_dye"
+    },
+    {
+      "name": "MagentaIngredients",
+      "type": "tag",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_ingredients"
+    },
+    {
+      "name": "BetterMagentaDye",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_magenta_dye"
+    },
+    {
+      "name": "DragonsBreathMagenta",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragons_breath_magenta"
+    },
+    {
+      "name": "CharcoalCoal",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charcoal_coal"
+    },
+    {
+      "name": "BoneCoal",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_coal"
+    },
+    {
+      "name": "BoneCoalBlock",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_coal_block"
+    },
+    {
+      "name": "Coals",
+      "type": "tag",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coals"
+    },
+    {
+      "name": "CharcoalBlock",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charcoal_block"
+    },
+    {
+      "name": "BoneMealBlackDye",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_black_dye"
+    },
+    {
+      "name": "BoneMealSkull",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_skull"
+    },
+    {
+      "name": "SkullMeal",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skull_meal"
+    },
+    {
+      "name": "HoneycombBottle",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "honeycomb_bottle"
+    },
+    {
+      "name": "HoneycombBlockBottle",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "honeycomb_block_bottle"
+    },
+    {
+      "name": "BlackIngredients",
+      "type": "tag",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_ingredients"
+    },
+    {
+      "name": "BoneMealWitherSkull",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_wither_skull"
+    },
+    {
+      "name": "WitheringSkull",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "withering_skull"
+    },
+    {
+      "name": "BetterBlackDye",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_black_dye"
+    },
+    {
+      "name": "WritingBook",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "writing_book"
+    },
+    {
+      "name": "RedIngredients",
+      "type": "tag",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_ingredients"
+    },
+    {
+      "name": "BetterRedDye",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_red_dye"
+    },
+    {
+      "name": "LightBlueMixing",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_mixing"
+    },
+    {
+      "name": "MagentaMixing1",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_mixing_1"
+    },
+    {
+      "name": "MagentaMixing2",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_mixing_2"
+    },
+    {
+      "name": "MagentaMixing3",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_mixing_3"
+    },
+    {
+      "name": "HoneyYellowDye",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "honey_yellow_dye"
+    },
+    {
+      "name": "MagentaDragonBreath1",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_dragon_breath_1"
+    },
+    {
+      "name": "MagentaDragonBreath2",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_dragon_breath_2"
+    },
+    {
+      "name": "MagentaDragonBreath3",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_dragon_breath_3"
+    },
+    {
+      "name": "MagentaDragonBreath4",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_dragon_breath_4"
+    },
+    {
+      "name": "MagentaDragonBreath5",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_dragon_breath_5"
+    },
+    {
+      "name": "SeaPickleLime",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sea_pickle_lime"
+    },
+    {
+      "name": "SeaPickleLimeSmoker",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sea_pickle_lime_smoker"
+    },
+    {
+      "name": "SeaPickeLimeCampfire",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sea_picke_lime_campfire"
+    },
+    {
+      "name": "LimeIngredients",
+      "type": "tag",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_ingredients"
+    },
+    {
+      "name": "BetterLimeDye",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_lime_dye"
+    },
+    {
+      "name": "LimeMixing1",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_mixing_1"
+    },
+    {
+      "name": "LimeMixing2",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_mixing_2"
+    },
+    {
+      "name": "GreyMixing",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grey_mixing"
+    },
+    {
+      "name": "GreyIngredients",
+      "type": "tag",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grey_ingredients"
+    },
+    {
+      "name": "LightGreyMixing1",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_grey_mixing_1"
+    },
+    {
+      "name": "LightGreyMixing2",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_grey_mixing_2"
+    },
+    {
+      "name": "CyanMixing",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_mixing"
+    },
+    {
+      "name": "ChorusFruitBreath",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_fruit_breath"
+    },
+    {
+      "name": "GreenMixing",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_mixing"
+    },
+    {
+      "name": "CactusGreen",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_green"
+    },
+    {
+      "name": "CactusGreenSmoker",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_green_smoker"
+    },
+    {
+      "name": "CactusGreenBlasting",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_green_blasting"
+    },
+    {
+      "name": "CactusGreenCampfire",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_green_campfire"
+    },
+    {
+      "name": "ScuteGreen",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scute_green"
+    },
+    {
+      "name": "CampfireTorches",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "campfire_torches"
+    },
+    {
+      "name": "Torches",
+      "type": "tag",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "torches"
+    },
+    {
+      "name": "JackOLanternTorches",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jack_o_lantern_torches"
+    },
+    {
+      "name": "NetherStarDebugStick",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_debug_stick"
+    },
+    {
+      "name": "Webs",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "webs"
+    },
+    {
+      "name": "Mushrooms",
+      "type": "tag",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mushrooms"
+    },
+    {
+      "name": "Sugars",
+      "type": "tag",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugars"
+    },
+    {
+      "name": "FermentedSpiderEyes",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fermented_spider_eyes"
+    },
+    {
+      "name": "PaperIngredients",
+      "type": "tag",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paper_ingredients"
+    },
+    {
+      "name": "ShapelessPaper",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shapeless_paper"
+    },
+    {
+      "name": "Spawner",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spawner"
+    },
+    {
+      "name": "GravelToFlint",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravel_to_flint"
+    },
+    {
+      "name": "FlintToGravel",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_to_gravel"
+    },
+    {
+      "name": "Sticky",
+      "type": "tag",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sticky"
+    },
+    {
+      "name": "MoreStickyPistons",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_sticky_pistons"
+    },
+    {
+      "name": "EmptyMap",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_map"
+    },
+    {
+      "name": "Bell",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bell"
+    },
+    {
+      "name": "Bells",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bells"
+    },
+    {
+      "name": "StoneBricks",
+      "type": "tag",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_bricks"
+    },
+    {
+      "name": "SmeltingStoneBricks",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelting_stone_bricks"
+    },
+    {
+      "name": "BlastingStoneBricks",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blasting_stone_bricks"
+    },
+    {
+      "name": "CuttingStoneBricks",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutting_stone_bricks"
+    },
+    {
+      "name": "XPBottle",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xp_bottle"
+    },
+    {
+      "name": "XPBottles",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xp_bottles"
+    },
+    {
+      "name": "FlintShears",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shears"
+    },
+    {
+      "name": "UncoloringGlassFurnace",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uncoloring_glass_furnace"
+    },
+    {
+      "name": "UncoloringGlassBlast",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uncoloring_glass_blast"
+    },
+    {
+      "name": "Load",
+      "type": "function",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load"
+    },
+    {
+      "name": "NitrosQOLCrafting",
+      "type": "achievement",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nitros_qol_crafting"
+    },
+    {
+      "name": "SeaPickleLimeSmoking",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sea_pickle_lime_smoking"
+    },
+    {
+      "name": "GlowstoneTorch",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_torch"
+    },
+    {
+      "name": "Installed",
+      "type": "achievement",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "installed"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "nitros_dye_mixing",
+    "modName": "Nitro\u0027s Dye Mixing",
+    "version": "1.0.0",
+    "author": "imac6, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.15.x",
+    "modElementsPackage": "net.mcreator.nitrosdyemixing",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

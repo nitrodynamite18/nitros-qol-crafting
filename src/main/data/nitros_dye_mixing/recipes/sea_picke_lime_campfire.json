@@ -1,0 +1,12 @@
+{
+  "group": "lime_dye",
+  "type": "minecraft:campfire_cooking",
+  "experience": 0.2,
+  "cookingtime": 240,
+  "ingredient": {
+    "item": "minecraft:sea_pickle"
+  },
+  "result": {
+    "item": "minecraft:lime_dye"
+  }
+}
