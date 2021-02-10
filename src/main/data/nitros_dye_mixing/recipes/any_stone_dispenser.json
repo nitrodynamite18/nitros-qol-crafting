@@ -1,0 +1,42 @@
+{
+  "group": "dispenser",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "any_stone"
+    },
+    "1": {
+      "tag": "any_stone"
+    },
+    "2": {
+      "tag": "any_stone"
+    },
+    "3": {
+      "tag": "any_stone"
+    },
+    "4": {
+      "item": "minecraft:bow"
+    },
+    "5": {
+      "tag": "any_stone"
+    },
+    "6": {
+      "tag": "any_stone"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "tag": "any_stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  }
+}

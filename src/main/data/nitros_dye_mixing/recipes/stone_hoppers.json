@@ -1,0 +1,33 @@
+{
+  "group": "hopper",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "stone_as_iron"
+    },
+    "2": {
+      "tag": "stone_as_iron"
+    },
+    "3": {
+      "tag": "stone_as_iron"
+    },
+    "4": {
+      "tag": "chests"
+    },
+    "5": {
+      "tag": "stone_as_iron"
+    },
+    "7": {
+      "tag": "stone_as_iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:hopper",
+    "count": 1
+  }
+}

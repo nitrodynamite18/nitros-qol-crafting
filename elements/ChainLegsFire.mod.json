@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "chainmail",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.FIRE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.CHAINMAIL_LEGGINGS"
+    },
+    "name": "chain_legs_fire",
+    "namespace": "mod"
+  }
+}

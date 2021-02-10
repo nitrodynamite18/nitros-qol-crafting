@@ -774,6 +774,393 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "installed"
+    },
+    {
+      "name": "NetherBlockToWarts",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_block_to_warts"
+    },
+    {
+      "name": "ChainHelmetFire",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_helmet_fire"
+    },
+    {
+      "name": "ChainChestFire",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_chest_fire"
+    },
+    {
+      "name": "ChainLegsFire",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_legs_fire"
+    },
+    {
+      "name": "ChainBootsFire",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_boots_fire"
+    },
+    {
+      "name": "DarkPrismarineBlackDye",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_prismarine_black_dye"
+    },
+    {
+      "name": "CraftingPrismarineBlocksToBricks",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_prismarine_blocks_to_bricks"
+    },
+    {
+      "name": "CuttingPrismarineBlocksToBricks",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cutting_prismarine_blocks_to_bricks"
+    },
+    {
+      "name": "QuartzToItems",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_to_items"
+    },
+    {
+      "name": "WebsToString",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "webs_to_string"
+    },
+    {
+      "name": "Chests",
+      "type": "tag",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chests"
+    },
+    {
+      "name": "StoneAsIron",
+      "type": "tag",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_as_iron"
+    },
+    {
+      "name": "StoneHoppers",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hoppers"
+    },
+    {
+      "name": "StoneMinecarts",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_minecarts"
+    },
+    {
+      "name": "StoneBuckets",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_buckets"
+    },
+    {
+      "name": "StoneCauldrons",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_cauldrons"
+    },
+    {
+      "name": "AnyStoneBrewingStands",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_brewing_stands"
+    },
+    {
+      "name": "AnyStone",
+      "type": "tag",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone"
+    },
+    {
+      "name": "AnyStoneSword",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_sword"
+    },
+    {
+      "name": "AnyStoneShovel",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_shovel"
+    },
+    {
+      "name": "AnyStonePickaxe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_pickaxe"
+    },
+    {
+      "name": "AnyStoneAxe1",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_axe_1"
+    },
+    {
+      "name": "AnyStoneAxe2",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_axe_2"
+    },
+    {
+      "name": "AnyStoneHoe1",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_hoe_1"
+    },
+    {
+      "name": "AnyStoneHoe2",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_hoe_2"
+    },
+    {
+      "name": "AnyStoneDispenser",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_dispenser"
+    },
+    {
+      "name": "AnyStoneDropper",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_dropper"
+    },
+    {
+      "name": "Bows",
+      "type": "tag",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bows"
+    },
+    {
+      "name": "Dropperspenser1",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dropperspenser_1"
+    },
+    {
+      "name": "Dropperspenser2",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dropperspenser_2"
+    },
+    {
+      "name": "StoneCompass",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_compass"
+    },
+    {
+      "name": "AnyStonePiston",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_piston"
+    },
+    {
+      "name": "AnyStoneRepeater",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_repeater"
+    },
+    {
+      "name": "AnyStoneComparator",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_comparator"
+    },
+    {
+      "name": "AnyStoneLever",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_lever"
+    },
+    {
+      "name": "AnyStoneObserver1",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_observer_1"
+    },
+    {
+      "name": "AnyStoneObserver2",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_observer_2"
+    },
+    {
+      "name": "TrappedChestPlanks",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trapped_chest_planks"
+    },
+    {
+      "name": "ShapelessShulkerBoxes",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shapeless_shulker_boxes"
+    },
+    {
+      "name": "AnyStoneFurnace",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_furnace"
+    },
+    {
+      "name": "AnyStoneCutter",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_stone_cutter"
+    },
+    {
+      "name": "StickPlanks",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stick_planks"
+    },
+    {
+      "name": "ShapelessBread",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shapeless_bread"
     }
   ],
   "variable_elements": [],

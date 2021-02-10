@@ -1,0 +1,39 @@
+{
+  "group": "chainmail",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:fire"
+    },
+    "2": {
+      "item": "minecraft:fire"
+    },
+    "3": {
+      "item": "minecraft:fire"
+    },
+    "4": {
+      "item": "minecraft:fire"
+    },
+    "5": {
+      "item": "minecraft:fire"
+    },
+    "6": {
+      "item": "minecraft:fire"
+    },
+    "7": {
+      "item": "minecraft:fire"
+    },
+    "8": {
+      "item": "minecraft:fire"
+    }
+  },
+  "result": {
+    "item": "minecraft:chainmail_chestplate",
+    "count": 1
+  }
+}

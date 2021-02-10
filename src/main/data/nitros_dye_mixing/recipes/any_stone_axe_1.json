@@ -1,0 +1,25 @@
+{
+  "group": "stone_tools",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "any_stone"
+    },
+    {
+      "tag": "any_stone"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "tag": "any_stone"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone_axe",
+    "count": 1
+  }
+}

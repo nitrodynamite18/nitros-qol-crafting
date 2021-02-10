@@ -1,0 +1,16 @@
+{
+  "group": "dispenser",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "bows"
+    },
+    {
+      "item": "minecraft:dropper"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dispenser",
+    "count": 1
+  }
+}

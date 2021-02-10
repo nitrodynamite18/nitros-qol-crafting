@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "prismarine",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.PRISMARINE#0"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.PRISMARINE#1"
+    },
+    "name": "cutting_prismarine_blocks_to_bricks",
+    "namespace": "mod"
+  }
+}

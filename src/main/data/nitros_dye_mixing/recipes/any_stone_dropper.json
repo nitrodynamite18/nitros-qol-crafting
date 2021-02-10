@@ -1,0 +1,39 @@
+{
+  "group": "dropper",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "any_stone"
+    },
+    "1": {
+      "tag": "any_stone"
+    },
+    "2": {
+      "tag": "any_stone"
+    },
+    "3": {
+      "tag": "any_stone"
+    },
+    "5": {
+      "tag": "any_stone"
+    },
+    "6": {
+      "tag": "any_stone"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "tag": "any_stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:dropper",
+    "count": 1
+  }
+}

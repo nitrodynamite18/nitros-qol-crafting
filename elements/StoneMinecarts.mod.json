@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "minecart",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.MINECART"
+    },
+    "name": "stone_minecarts",
+    "namespace": "mod"
+  }
+}

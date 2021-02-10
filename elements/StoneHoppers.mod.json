@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "hopper",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": "TAG:chests"
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:stone_as_iron"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.HOPPER"
+    },
+    "name": "stone_hoppers",
+    "namespace": "mod"
+  }
+}

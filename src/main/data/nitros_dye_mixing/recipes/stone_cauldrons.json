@@ -1,0 +1,36 @@
+{
+  "group": "cauldron",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "stone_as_iron"
+    },
+    "2": {
+      "tag": "stone_as_iron"
+    },
+    "3": {
+      "tag": "stone_as_iron"
+    },
+    "5": {
+      "tag": "stone_as_iron"
+    },
+    "6": {
+      "tag": "stone_as_iron"
+    },
+    "7": {
+      "tag": "stone_as_iron"
+    },
+    "8": {
+      "tag": "stone_as_iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}

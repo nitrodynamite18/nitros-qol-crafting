@@ -1,0 +1,42 @@
+{
+  "group": "observer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "any_stone"
+    },
+    "1": {
+      "tag": "any_stone"
+    },
+    "2": {
+      "tag": "any_stone"
+    },
+    "3": {
+      "item": "minecraft:quartz"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "tag": "any_stone"
+    },
+    "7": {
+      "tag": "any_stone"
+    },
+    "8": {
+      "tag": "any_stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:observer",
+    "count": 1
+  }
+}

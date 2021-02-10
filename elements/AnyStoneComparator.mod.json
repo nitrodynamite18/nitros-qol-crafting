@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "comparator",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "TAG:any_stone"
+      },
+      {
+        "value": "TAG:any_stone"
+      },
+      {
+        "value": "TAG:any_stone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.COMPARATOR"
+    },
+    "name": "any_stone_comparator",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "quartz",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ores/quartz"
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 4
+  }
+}
