@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Items.ROTTEN_FLESH"
+    },
+    "smokingReturnStack": {
+      "value": "Items.LEATHER"
+    },
+    "name": "smoking_flesh_to_leather",
+    "namespace": "mod"
+  }
+}

@@ -1161,6 +1161,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "shapeless_bread"
+    },
+    {
+      "name": "SmeltingFleshToLeather",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelting_flesh_to_leather"
+    },
+    {
+      "name": "SmokingFleshToLeather",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoking_flesh_to_leather"
     }
   ],
   "variable_elements": [],
