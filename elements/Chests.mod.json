@@ -11,9 +11,6 @@
         "value": "Blocks.TRAPPED_CHEST"
       },
       {
-        "value": "Blocks.ENDER_CHEST"
-      },
-      {
         "value": "Blocks.BARREL"
       }
     ],
