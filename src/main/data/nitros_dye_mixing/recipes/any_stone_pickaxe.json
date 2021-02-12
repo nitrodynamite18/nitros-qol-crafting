@@ -1,23 +1,28 @@
 {
   "group": "stone_tools",
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
       "tag": "any_stone"
     },
-    {
+    "1": {
       "tag": "any_stone"
     },
-    {
+    "2": {
       "tag": "any_stone"
     },
-    {
+    "4": {
       "item": "minecraft:stick"
     },
-    {
+    "7": {
       "item": "minecraft:stick"
     }
-  ],
+  },
   "result": {
     "item": "minecraft:stone_pickaxe",
     "count": 1

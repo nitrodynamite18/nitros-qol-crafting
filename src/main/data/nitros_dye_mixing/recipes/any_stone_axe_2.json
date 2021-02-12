@@ -1,23 +1,28 @@
 {
   "group": "stone_tools",
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
       "tag": "any_stone"
     },
-    {
+    "1": {
       "tag": "any_stone"
     },
-    {
+    "2": {
       "tag": "any_stone"
     },
-    {
+    "3": {
       "item": "minecraft:stick"
     },
-    {
+    "5": {
       "item": "minecraft:stick"
     }
-  ],
+  },
   "result": {
     "item": "minecraft:stone_axe",
     "count": 1
