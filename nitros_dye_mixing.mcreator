@@ -1179,6 +1179,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smoking_flesh_to_leather"
+    },
+    {
+      "name": "GrassBlock",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grass_block"
+    },
+    {
+      "name": "Podzol",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "podzol"
+    },
+    {
+      "name": "Mycelium",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mycelium"
     }
   ],
   "variable_elements": [],

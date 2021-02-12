@@ -1,0 +1,33 @@
+{
+  "group": "dirts",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:grass"
+    },
+    "1": {
+      "item": "minecraft:grass"
+    },
+    "2": {
+      "item": "minecraft:coarse_dirt"
+    },
+    "3": {
+      "item": "minecraft:coarse_dirt"
+    },
+    "4": {
+      "item": "minecraft:coarse_dirt"
+    },
+    "5": {
+      "item": "minecraft:coarse_dirt"
+    }
+  },
+  "result": {
+    "item": "minecraft:podzol",
+    "count": 4
+  }
+}
