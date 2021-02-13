@@ -1206,6 +1206,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mycelium"
+    },
+    {
+      "name": "Tridents",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tridents"
+    },
+    {
+      "name": "CheaperBookshelves",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheaper_bookshelves"
+    },
+    {
+      "name": "BoneMealOak",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_oak"
     }
   ],
   "variable_elements": [],
