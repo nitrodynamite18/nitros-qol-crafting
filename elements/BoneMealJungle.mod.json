@@ -10,37 +10,37 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
         "value": "Items.DYE#15"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:jungle_saplings"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.LOG#0"
+      "value": "Blocks.LOG#3"
     },
-    "name": "bone_meal_oak",
+    "name": "bone_meal_jungle",
     "namespace": "mod"
   }
 }

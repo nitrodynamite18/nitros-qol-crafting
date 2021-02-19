@@ -1233,6 +1233,105 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bone_meal_oak"
+    },
+    {
+      "name": "BoneMealSpruce",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_spruce"
+    },
+    {
+      "name": "OakSaplings",
+      "type": "tag",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_saplings"
+    },
+    {
+      "name": "SpruceSaplings",
+      "type": "tag",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_saplings"
+    },
+    {
+      "name": "BirchSaplings",
+      "type": "tag",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_saplings"
+    },
+    {
+      "name": "BoneMealBirch",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_birch"
+    },
+    {
+      "name": "JungleSaplings",
+      "type": "tag",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_saplings"
+    },
+    {
+      "name": "BoneMealJungle",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_jungle"
+    },
+    {
+      "name": "AcaciaSaplings",
+      "type": "tag",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acacia_saplings"
+    },
+    {
+      "name": "BoneMealAcacia",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_acacia"
+    },
+    {
+      "name": "BoneMealDarkOak",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_meal_dark_oak"
+    },
+    {
+      "name": "DarkOakSaplings",
+      "type": "tag",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_saplings"
     }
   ],
   "variable_elements": [],

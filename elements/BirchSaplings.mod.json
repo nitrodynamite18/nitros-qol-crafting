@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.SAPLING#2"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "birch_saplings",
+    "namespace": "mod"
+  }
+}

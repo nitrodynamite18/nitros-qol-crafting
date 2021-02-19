@@ -10,37 +10,37 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
         "value": "Items.DYE#15"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       },
       {
-        "value": "TAG:oak_saplings"
+        "value": "TAG:spruce_saplings"
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.LOG#0"
+      "value": "Blocks.LOG#1"
     },
-    "name": "bone_meal_oak",
+    "name": "bone_meal_spruce",
     "namespace": "mod"
   }
 }

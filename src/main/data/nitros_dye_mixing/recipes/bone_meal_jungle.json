@@ -3,35 +3,35 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
       "item": "minecraft:bone_meal"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     },
     {
-      "tag": "oak_saplings"
+      "tag": "jungle_saplings"
     }
   ],
   "result": {
-    "item": "minecraft:oak_log",
+    "item": "minecraft:jungle_log",
     "count": 64
   }
 }

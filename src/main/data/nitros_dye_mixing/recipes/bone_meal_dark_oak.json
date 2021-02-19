@@ -1,0 +1,37 @@
+{
+  "group": "bone_meal_logs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    },
+    {
+      "tag": "dark_oak_saplings"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_oak_log",
+    "count": 64
+  }
+}
