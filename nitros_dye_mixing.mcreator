@@ -875,15 +875,6 @@
       "registry_name": "chests"
     },
     {
-      "name": "StoneAsIron",
-      "type": "tag",
-      "sortid": 100,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stone_as_iron"
-    },
-    {
       "name": "StoneHoppers",
       "type": "recipe",
       "sortid": 99,
@@ -1332,6 +1323,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dark_oak_saplings"
+    },
+    {
+      "name": "StoneAsIron",
+      "type": "tag",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_as_iron"
     }
   ],
   "variable_elements": [],
