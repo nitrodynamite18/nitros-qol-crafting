@@ -1,6 +1,6 @@
 {
   "group": "leather",
-  "type": "minecraft:smoking",
+  "type": "minecraft:campfire_cooking",
   "experience": 1,
   "cookingtime": 100,
   "ingredient": {

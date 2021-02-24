@@ -5,9 +5,9 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 4,
-    "group": "quartz",
-    "recipeShapeless": true,
+    "recipeRetstackSize": 1,
+    "group": "shears",
+    "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": ""
@@ -16,13 +16,13 @@
         "value": ""
       },
       {
-        "value": ""
+        "value": "Items.FLINT"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.QUARTZ_BLOCK#0"
+        "value": "Items.FLINT"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.QUARTZ"
+      "value": "Items.SHEARS"
     },
-    "name": "quartz_to_items",
+    "name": "flint_shears_1",
     "namespace": "mod"
   }
 }

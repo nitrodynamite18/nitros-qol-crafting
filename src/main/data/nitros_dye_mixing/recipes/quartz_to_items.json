@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:ores/quartz"
+      "item": "minecraft:smooth_quartz"
     }
   ],
   "result": {

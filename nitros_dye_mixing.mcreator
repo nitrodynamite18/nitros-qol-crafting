@@ -704,15 +704,6 @@
       "registry_name": "xp_bottles"
     },
     {
-      "name": "FlintShears",
-      "type": "recipe",
-      "sortid": 83,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "flint_shears"
-    },
-    {
       "name": "UncoloringGlassFurnace",
       "type": "recipe",
       "sortid": 84,
@@ -1431,6 +1422,69 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "chain_boots_iron_nuggets"
+    },
+    {
+      "name": "CampfireFleshToLeather",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "campfire_flesh_to_leather"
+    },
+    {
+      "name": "FlintShears1",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shears_1"
+    },
+    {
+      "name": "FlintShears2",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shears_2"
+    },
+    {
+      "name": "DyeSandstoneRed",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_sandstone_red"
+    },
+    {
+      "name": "DyeChiseledSandstoneRed",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_chiseled_sandstone_red"
+    },
+    {
+      "name": "DyeSmoothSandstoneRed",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_smooth_sandstone_red"
+    },
+    {
+      "name": "DyeCutSandstoneRed",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_cut_sandstone_red"
     }
   ],
   "variable_elements": [],

@@ -1,0 +1,42 @@
+{
+  "group": "red_sandstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "1": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "2": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "3": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "4": {
+      "tag": "red_ingredients"
+    },
+    "5": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "6": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "7": {
+      "item": "minecraft:smooth_sandstone"
+    },
+    "8": {
+      "item": "minecraft:smooth_sandstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:smooth_red_sandstone",
+    "count": 8
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "red_sandstone",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "1": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "2": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "3": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "4": {
+      "tag": "red_ingredients"
+    },
+    "5": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "6": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "7": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "8": {
+      "item": "minecraft:chiseled_sandstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:chiseled_red_sandstone",
+    "count": 8
+  }
+}

@@ -4,7 +4,7 @@
             "item": "minecraft:knowledge_book"
           },
           "title": "Installed",
-          "description": "If you don't have this advancement, have an admin run the "load" function.",
+          "description": "If you don't have this achievement, have an admin run the "load" function.",
           "frame": "task",
           "show_toast": true,
           "announce_to_chat": false,
@@ -149,8 +149,6 @@
                 ,
                 "nitros_dye_mixing:xp_bottles"
                 ,
-                "nitros_dye_mixing:flint_shears"
-                ,
                 "nitros_dye_mixing:uncoloring_glass_furnace"
                 ,
                 "nitros_dye_mixing:uncoloring_glass_blast"
@@ -188,6 +186,116 @@
                 "nitros_dye_mixing:stone_cauldrons"
                 ,
                 "nitros_dye_mixing:any_stone_brewing_stands"
+                ,
+                "nitros_dye_mixing:any_stone_sword"
+                ,
+                "nitros_dye_mixing:any_stone_shovel"
+                ,
+                "nitros_dye_mixing:any_stone_pickaxe"
+                ,
+                "nitros_dye_mixing:any_stone_axe_1"
+                ,
+                "nitros_dye_mixing:any_stone_axe_2"
+                ,
+                "nitros_dye_mixing:any_stone_hoe_1"
+                ,
+                "nitros_dye_mixing:any_stone_hoe_2"
+                ,
+                "nitros_dye_mixing:any_stone_dispenser"
+                ,
+                "nitros_dye_mixing:any_stone_dropper"
+                ,
+                "nitros_dye_mixing:dropperspenser_1"
+                ,
+                "nitros_dye_mixing:dropperspenser_2"
+                ,
+                "nitros_dye_mixing:stone_compass"
+                ,
+                "nitros_dye_mixing:any_stone_piston"
+                ,
+                "nitros_dye_mixing:any_stone_repeater"
+                ,
+                "nitros_dye_mixing:any_stone_comparator"
+                ,
+                "nitros_dye_mixing:any_stone_lever"
+                ,
+                "nitros_dye_mixing:any_stone_observer_1"
+                ,
+                "nitros_dye_mixing:any_stone_observer_2"
+                ,
+                "nitros_dye_mixing:trapped_chest_planks"
+                ,
+                "nitros_dye_mixing:shapeless_shulker_boxes"
+                ,
+                "nitros_dye_mixing:any_stone_furnace"
+                ,
+                "nitros_dye_mixing:any_stone_cutter"
+                ,
+                "nitros_dye_mixing:stick_planks"
+                ,
+                "nitros_dye_mixing:shapeless_bread"
+                ,
+                "nitros_dye_mixing:smelting_flesh_to_leather"
+                ,
+                "nitros_dye_mixing:smoking_flesh_to_leather"
+                ,
+                "nitros_dye_mixing:grass_block"
+                ,
+                "nitros_dye_mixing:podzol"
+                ,
+                "nitros_dye_mixing:mycelium"
+                ,
+                "nitros_dye_mixing:tridents"
+                ,
+                "nitros_dye_mixing:cheaper_bookshelves"
+                ,
+                "nitros_dye_mixing:bone_meal_oak"
+                ,
+                "nitros_dye_mixing:bone_meal_spruce"
+                ,
+                "nitros_dye_mixing:bone_meal_birch"
+                ,
+                "nitros_dye_mixing:bone_meal_jungle"
+                ,
+                "nitros_dye_mixing:bone_meal_acacia"
+                ,
+                "nitros_dye_mixing:bone_meal_dark_oak"
+                ,
+                "nitros_dye_mixing:blue_to_packed_ice"
+                ,
+                "nitros_dye_mixing:packed_to_ice"
+                ,
+                "nitros_dye_mixing:name_tag"
+                ,
+                "nitros_dye_mixing:saddle"
+                ,
+                "nitros_dye_mixing:gold_horse_armor"
+                ,
+                "nitros_dye_mixing:iron_horse_armor"
+                ,
+                "nitros_dye_mixing:diamond_horse_armor"
+                ,
+                "nitros_dye_mixing:chain_helmet_iron_nuggets"
+                ,
+                "nitros_dye_mixing:chain_chest_iron_nuggets"
+                ,
+                "nitros_dye_mixing:chain_legs_iron_nuggets"
+                ,
+                "nitros_dye_mixing:chain_boots_iron_nuggets"
+                ,
+                "nitros_dye_mixing:campfire_flesh_to_leather"
+                ,
+                "nitros_dye_mixing:flint_shears_1"
+                ,
+                "nitros_dye_mixing:flint_shears_2"
+                ,
+                "nitros_dye_mixing:dye_sandstone_red"
+                ,
+                "nitros_dye_mixing:dye_chiseled_sandstone_red"
+                ,
+                "nitros_dye_mixing:dye_smooth_sandstone_red"
+                ,
+                "nitros_dye_mixing:dye_cut_sandstone_red"
                 
         ]
     }
