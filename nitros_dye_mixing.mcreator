@@ -1332,6 +1332,105 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stone_as_iron"
+    },
+    {
+      "name": "BlueToPackedIce",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_to_packed_ice"
+    },
+    {
+      "name": "PackedToIce",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "packed_to_ice"
+    },
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "name_tag"
+    },
+    {
+      "name": "Saddle",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saddle"
+    },
+    {
+      "name": "GoldHorseArmor",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_horse_armor"
+    },
+    {
+      "name": "IronHorseArmor",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_horse_armor"
+    },
+    {
+      "name": "DiamondHorseArmor",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_horse_armor"
+    },
+    {
+      "name": "ChainHelmetIronNuggets",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_helmet_iron_nuggets"
+    },
+    {
+      "name": "ChainChestIronNuggets",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_chest_iron_nuggets"
+    },
+    {
+      "name": "ChainLegsIronNuggets",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_legs_iron_nuggets"
+    },
+    {
+      "name": "ChainBootsIronNuggets",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chain_boots_iron_nuggets"
     }
   ],
   "variable_elements": [],

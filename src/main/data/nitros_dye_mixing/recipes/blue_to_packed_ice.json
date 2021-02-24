@@ -1,0 +1,16 @@
+{
+  "group": "ice",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "minecraft:packed_ice",
+    "count": 9
+  }
+}
