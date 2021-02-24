@@ -1,0 +1,30 @@
+{
+  "group": "lectern",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "1": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "2": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "minecraft:lectern",
+    "count": 1
+  }
+}

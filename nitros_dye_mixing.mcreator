@@ -1485,6 +1485,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dye_cut_sandstone_red"
+    },
+    {
+      "name": "AnyWoodLectern",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "any_wood_lectern"
     }
   ],
   "variable_elements": [],

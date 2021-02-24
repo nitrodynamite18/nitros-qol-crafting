@@ -151,7 +151,8 @@
       "DyeSandstoneRed",
       "DyeChiseledSandstoneRed",
       "DyeSmoothSandstoneRed",
-      "DyeCutSandstoneRed"
+      "DyeCutSandstoneRed",
+      "AnyWoodLectern"
     ],
     "rewardFunction": "No function",
     "rewardXP": 18,
