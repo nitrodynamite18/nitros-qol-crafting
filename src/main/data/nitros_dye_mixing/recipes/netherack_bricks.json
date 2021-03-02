@@ -1,0 +1,9 @@
+{
+  "group": "netherrack_bricks",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "result": "minecraft:nether_bricks"
+}

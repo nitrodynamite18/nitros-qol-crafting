@@ -11,22 +11,10 @@
         "value": "Blocks.STONE#1"
       },
       {
-        "value": "Blocks.STONE#2"
-      },
-      {
         "value": "Blocks.STONE#3"
       },
       {
-        "value": "Blocks.STONE#4"
-      },
-      {
         "value": "Blocks.STONE#5"
-      },
-      {
-        "value": "Blocks.STONE#6"
-      },
-      {
-        "value": "Blocks.SMOOTH_STONE"
       },
       {
         "value": "Blocks.COBBLESTONE"
@@ -35,70 +23,16 @@
         "value": "Blocks.MOSSY_COBBLESTONE"
       },
       {
-        "value": "Blocks.OBSIDIAN"
-      },
-      {
-        "value": "Blocks.QUARTZ_BLOCK#0"
-      },
-      {
-        "value": "Blocks.QUARTZ_BLOCK#1"
-      },
-      {
-        "value": "Blocks.QUARTZ_BLOCK#2"
-      },
-      {
         "value": "Blocks.SANDSTONE#0"
-      },
-      {
-        "value": "Blocks.SANDSTONE#1"
-      },
-      {
-        "value": "Blocks.SANDSTONE#2"
-      },
-      {
-        "value": "Blocks.SMOOTH_SANDSTONE"
       },
       {
         "value": "Blocks.RED_SANDSTONE#0"
       },
       {
-        "value": "Blocks.RED_SANDSTONE#1"
-      },
-      {
-        "value": "Blocks.RED_SANDSTONE#2"
-      },
-      {
-        "value": "Blocks.SMOOTH_RED_SANDSTONE"
-      },
-      {
-        "value": "Blocks.BRICK_BLOCK"
-      },
-      {
-        "value": "Blocks.NETHER_BRICK"
-      },
-      {
-        "value": "Blocks.RED_NETHER_BRICK"
-      },
-      {
         "value": "Blocks.NETHERRACK"
       },
       {
-        "value": "Blocks.STONEBRICK#0"
-      },
-      {
-        "value": "Blocks.STONEBRICK#1"
-      },
-      {
-        "value": "Blocks.STONEBRICK#2"
-      },
-      {
-        "value": "Blocks.STONEBRICK#3"
-      },
-      {
         "value": "Blocks.END_STONE"
-      },
-      {
-        "value": "Blocks.END_BRICKS"
       },
       {
         "value": "Blocks.MONSTER_EGG#0"
@@ -107,202 +41,10 @@
         "value": "Blocks.MONSTER_EGG#1"
       },
       {
-        "value": "Blocks.MONSTER_EGG#2"
-      },
-      {
-        "value": "Blocks.MONSTER_EGG#3"
-      },
-      {
-        "value": "Blocks.MONSTER_EGG#4"
-      },
-      {
-        "value": "Blocks.MONSTER_EGG#5"
-      },
-      {
         "value": "Blocks.HARDENED_CLAY"
       },
       {
-        "value": "Blocks.STAINED_HARDENED_CLAY#0"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#1"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#2"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#3"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#4"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#5"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#6"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#7"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#8"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#9"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#10"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#11"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#12"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#13"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#14"
-      },
-      {
-        "value": "Blocks.STAINED_HARDENED_CLAY#15"
-      },
-      {
-        "value": "Blocks.WHITE_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.ORANGE_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.MAGENTA_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.LIGHT_BLUE_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.YELLOW_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.LIME_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.PINK_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.GRAY_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.SILVER_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.CYAN_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.PURPLE_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.BLUE_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.BROWN_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.GREEN_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.RED_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.BLACK_GLAZED_TERRACOTTA"
-      },
-      {
-        "value": "Blocks.CONCRETE#0"
-      },
-      {
-        "value": "Blocks.CONCRETE#1"
-      },
-      {
-        "value": "Blocks.CONCRETE#2"
-      },
-      {
-        "value": "Blocks.CONCRETE#3"
-      },
-      {
-        "value": "Blocks.CONCRETE#4"
-      },
-      {
-        "value": "Blocks.CONCRETE#5"
-      },
-      {
-        "value": "Blocks.CONCRETE#6"
-      },
-      {
-        "value": "Blocks.CONCRETE#7"
-      },
-      {
-        "value": "Blocks.CONCRETE#8"
-      },
-      {
-        "value": "Blocks.CONCRETE#9"
-      },
-      {
-        "value": "Blocks.CONCRETE#10"
-      },
-      {
-        "value": "Blocks.CONCRETE#11"
-      },
-      {
-        "value": "Blocks.CONCRETE#12"
-      },
-      {
-        "value": "Blocks.CONCRETE#13"
-      },
-      {
-        "value": "Blocks.CONCRETE#14"
-      },
-      {
-        "value": "Blocks.CONCRETE#15"
-      },
-      {
         "value": "Blocks.PRISMARINE#0"
-      },
-      {
-        "value": "Blocks.PRISMARINE#1"
-      },
-      {
-        "value": "Blocks.PRISMARINE#2"
-      },
-      {
-        "value": "Blocks.DEAD_TUBE_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.DEAD_BRAIN_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.DEAD_BUBBLE_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.DEAD_FIRE_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.DEAD_HORN_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.TUBE_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.BRAIN_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.BUBBLE_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.FIRE_CORAL_BLOCK"
-      },
-      {
-        "value": "Blocks.HORN_CORAL_BLOCK"
       },
       {
         "value": "Items.IRON_INGOT"

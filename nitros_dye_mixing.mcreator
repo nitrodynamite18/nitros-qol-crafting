@@ -1307,15 +1307,6 @@
       "registry_name": "dark_oak_saplings"
     },
     {
-      "name": "StoneAsIron",
-      "type": "tag",
-      "sortid": 151,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "stone_as_iron"
-    },
-    {
       "name": "BlueToPackedIce",
       "type": "recipe",
       "sortid": 152,
@@ -1521,6 +1512,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "more_red_nether_bricks_2"
+    },
+    {
+      "name": "StoneAsIron",
+      "type": "tag",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_as_iron"
+    },
+    {
+      "name": "NetherackBricks",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherack_bricks"
+    },
+    {
+      "name": "NetherrackRedBricks",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrack_red_bricks"
     }
   ],
   "variable_elements": [],
