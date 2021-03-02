@@ -1602,6 +1602,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pressure_plates"
+    },
+    {
+      "name": "BarrelSlabs",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barrel_slabs"
     }
   ],
   "variable_elements": [],
