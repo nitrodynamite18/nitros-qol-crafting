@@ -1,0 +1,26 @@
+{
+  "group": "more_bricks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "1": {
+      "item": "minecraft:nether_wart"
+    },
+    "2": {
+      "item": "minecraft:nether_wart"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_nether_bricks",
+    "count": 4
+  }
+}

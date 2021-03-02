@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "more_bricks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.NETHER_BRICK"
+    },
+    "name": "more_nether_bricks",
+    "namespace": "mod"
+  }
+}

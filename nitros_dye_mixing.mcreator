@@ -1485,6 +1485,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "any_wood_lectern"
+    },
+    {
+      "name": "MoreBricks",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_bricks"
+    },
+    {
+      "name": "MoreNetherBricks",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_nether_bricks"
+    },
+    {
+      "name": "MoreRedNetherBricks1",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_red_nether_bricks_1"
+    },
+    {
+      "name": "MoreRedNetherBricks2",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_red_nether_bricks_2"
     }
   ],
   "variable_elements": [],
