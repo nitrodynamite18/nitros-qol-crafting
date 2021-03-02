@@ -74,15 +74,6 @@
       "registry_name": "dragons_breath_magenta"
     },
     {
-      "name": "CharcoalCoal",
-      "type": "recipe",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "charcoal_coal"
-    },
-    {
       "name": "BoneCoal",
       "type": "recipe",
       "sortid": 11,
