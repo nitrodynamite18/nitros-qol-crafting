@@ -1,0 +1,32 @@
+{
+  "group": "minecart",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "tag": "stone_as_iron"
+    },
+    "1": {
+      "item": "minecraft:tnt"
+    },
+    "2": {
+      "tag": "stone_as_iron"
+    },
+    "3": {
+      "tag": "stone_as_iron"
+    },
+    "4": {
+      "tag": "stone_as_iron"
+    },
+    "5": {
+      "tag": "stone_as_iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:tnt_minecart",
+    "count": 1
+  }
+}

@@ -1539,6 +1539,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "netherrack_red_bricks"
+    },
+    {
+      "name": "StoneTNTMinecarts",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_tnt_minecarts"
+    },
+    {
+      "name": "StoneHopperMinecarts",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hopper_minecarts"
+    },
+    {
+      "name": "StoneChestMinecart",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_chest_minecart"
+    },
+    {
+      "name": "StoneFurnaceMinecart",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_furnace_minecart"
     }
   ],
   "variable_elements": [],
