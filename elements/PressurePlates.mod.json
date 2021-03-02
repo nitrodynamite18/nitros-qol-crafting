@@ -1,0 +1,40 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.WOODEN_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.SPRUCE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.BIRCH_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.JUNGLE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.ACACIA_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.STONE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.LIGHT_WEIGHTED_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.HEAVY_WEIGHTED_PRESSURE_PLATE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "pressure_plates",
+    "namespace": "mod"
+  }
+}

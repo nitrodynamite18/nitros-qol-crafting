@@ -1,0 +1,36 @@
+{
+  "group": "rails",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "tag": "stone_as_iron"
+    },
+    "2": {
+      "tag": "stone_as_iron"
+    },
+    "3": {
+      "tag": "stone_as_iron"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "tag": "stone_as_iron"
+    },
+    "6": {
+      "tag": "stone_as_iron"
+    },
+    "8": {
+      "tag": "stone_as_iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:rail",
+    "count": 16
+  }
+}

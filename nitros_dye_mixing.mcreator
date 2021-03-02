@@ -1575,6 +1575,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stone_furnace_minecart"
+    },
+    {
+      "name": "StoneRails",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_rails"
+    },
+    {
+      "name": "StoneDetectorRails",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_detector_rails"
+    },
+    {
+      "name": "PressurePlates",
+      "type": "tag",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pressure_plates"
     }
   ],
   "variable_elements": [],

@@ -1,0 +1,39 @@
+{
+  "group": "rails",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "stone_as_iron"
+    },
+    "2": {
+      "tag": "stone_as_iron"
+    },
+    "3": {
+      "tag": "stone_as_iron"
+    },
+    "4": {
+      "tag": "pressure_plates"
+    },
+    "5": {
+      "tag": "stone_as_iron"
+    },
+    "6": {
+      "tag": "stone_as_iron"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "tag": "stone_as_iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:detector_rail",
+    "count": 16
+  }
+}
