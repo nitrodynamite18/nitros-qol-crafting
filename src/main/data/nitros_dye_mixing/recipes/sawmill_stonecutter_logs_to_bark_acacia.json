@@ -1,0 +1,9 @@
+{
+  "group": "logs_to_bark",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:acacia_log"
+  },
+  "result": "minecraft:acacia_wood"
+}

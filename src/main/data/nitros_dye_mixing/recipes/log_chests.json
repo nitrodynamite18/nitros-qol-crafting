@@ -1,0 +1,39 @@
+{
+  "group": "log_planks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "logs"
+    },
+    "1": {
+      "tag": "logs"
+    },
+    "2": {
+      "tag": "logs"
+    },
+    "3": {
+      "tag": "logs"
+    },
+    "5": {
+      "tag": "logs"
+    },
+    "6": {
+      "tag": "logs"
+    },
+    "7": {
+      "tag": "logs"
+    },
+    "8": {
+      "tag": "logs"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 8
+  }
+}

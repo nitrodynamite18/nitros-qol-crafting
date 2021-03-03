@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "stripping_logs",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.OAK_WOOD"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.STRIPPED_OAK_WOOD"
+    },
+    "name": "sawmill_stonecutter_stripping_bark_oak",
+    "namespace": "mod"
+  }
+}
