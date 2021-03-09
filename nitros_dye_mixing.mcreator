@@ -1836,6 +1836,276 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sawmill_stonecutter_stripping_bark_dark_oak"
+    },
+    {
+      "name": "OakLogs",
+      "type": "tag",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_logs"
+    },
+    {
+      "name": "SawmillStonecutterLogSlabsOak",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_slabs_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogSlabsSpruce",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_slabs_spruce"
+    },
+    {
+      "name": "SpruceLogs",
+      "type": "tag",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_logs"
+    },
+    {
+      "name": "BirchLogs",
+      "type": "tag",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_logs"
+    },
+    {
+      "name": "JungleLogs",
+      "type": "tag",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_logs"
+    },
+    {
+      "name": "AcaciaLogs",
+      "type": "tag",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acacia_logs"
+    },
+    {
+      "name": "DarkOakLogs",
+      "type": "tag",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_logs"
+    },
+    {
+      "name": "SawmillStonecutterLogSlabsBirch",
+      "type": "recipe",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_slabs_birch"
+    },
+    {
+      "name": "SawmillStonecutterLogSlabsJungle",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_slabs_jungle"
+    },
+    {
+      "name": "SawmillStonecutterLogSlabsAcacia",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_slabs_acacia"
+    },
+    {
+      "name": "SawmillStonecutterLogSlabsDarkOak",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_slabs_dark_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogStairsOak",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_stairs_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogStairsSpruce",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_stairs_spruce"
+    },
+    {
+      "name": "SawmillStonecutterLogStairsBirch",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_stairs_birch"
+    },
+    {
+      "name": "SawmillStonecutterLogStairsJungle",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_stairs_jungle"
+    },
+    {
+      "name": "SawmillStonecutterLogStairsAcacia",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_stairs_acacia"
+    },
+    {
+      "name": "SawmillStonecutterLogStairsDarkOak",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_stairs_dark_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogFencesOak",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fences_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogFencesSpruce",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fences_spruce"
+    },
+    {
+      "name": "SawmillStonecutterLogFencesBirch",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fences_birch"
+    },
+    {
+      "name": "SawmillStonecutterLogFencesJungle",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fences_jungle"
+    },
+    {
+      "name": "SawmillStonecutterLogFencesAcacia",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fences_acacia"
+    },
+    {
+      "name": "SawmillStonecutterLogFencesDarkOak",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fences_dark_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogFenceGatesOak",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fence_gates_oak"
+    },
+    {
+      "name": "SawmillStonecutterLogFenceGatesSpruce",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fence_gates_spruce"
+    },
+    {
+      "name": "SawmillStonecutterLogFenceGatesBirch",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fence_gates_birch"
+    },
+    {
+      "name": "SawmillStonecutterLogFenceGatesJungle",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fence_gates_jungle"
+    },
+    {
+      "name": "SawmillStonecutterLogFenceGatesAcacia",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fence_gates_acacia"
+    },
+    {
+      "name": "SawmillStonecutterLogFenceGatesDarkOak",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sawmill_stonecutter_log_fence_gates_dark_oak"
     }
   ],
   "variable_elements": [],

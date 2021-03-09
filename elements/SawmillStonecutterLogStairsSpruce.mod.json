@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "log_stairs",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "TAG:spruce_logs"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.SPRUCE_STAIRS"
+    },
+    "name": "sawmill_stonecutter_log_stairs_spruce",
+    "namespace": "mod"
+  }
+}

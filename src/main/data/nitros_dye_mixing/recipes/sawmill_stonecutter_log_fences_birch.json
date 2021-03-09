@@ -1,0 +1,9 @@
+{
+  "group": "log_fences",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "tag": "birch_logs"
+  },
+  "result": "minecraft:birch_fence"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "log_fences",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "tag": "acacia_logs"
+  },
+  "result": "minecraft:acacia_fence"
+}

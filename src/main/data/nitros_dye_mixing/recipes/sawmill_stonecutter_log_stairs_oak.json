@@ -1,0 +1,9 @@
+{
+  "group": "log_stairs",
+  "type": "minecraft:stonecutting",
+  "count": 5,
+  "ingredient": {
+    "tag": "oak_logs"
+  },
+  "result": "minecraft:oak_stairs"
+}

@@ -1,0 +1,9 @@
+{
+  "group": "log_stairs",
+  "type": "minecraft:stonecutting",
+  "count": 5,
+  "ingredient": {
+    "tag": "jungle_logs"
+  },
+  "result": "minecraft:jungle_stairs"
+}

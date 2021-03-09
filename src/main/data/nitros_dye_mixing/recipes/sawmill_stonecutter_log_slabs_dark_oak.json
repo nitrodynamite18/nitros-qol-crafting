@@ -1,0 +1,9 @@
+{
+  "group": "log_slabs",
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "tag": "dark_oak_logs"
+  },
+  "result": "minecraft:dark_oak_slab"
+}

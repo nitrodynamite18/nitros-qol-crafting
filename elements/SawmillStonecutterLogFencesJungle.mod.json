@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "log_fences",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "TAG:jungle_logs"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.JUNGLE_FENCE"
+    },
+    "name": "sawmill_stonecutter_log_fences_jungle",
+    "namespace": "mod"
+  }
+}

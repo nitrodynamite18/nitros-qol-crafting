@@ -1,0 +1,9 @@
+{
+  "group": "log_fence_gates",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "tag": "dark_oak_logs"
+  },
+  "result": "minecraft:dark_oak_fence_gate"
+}
