@@ -31,8 +31,6 @@
                 ,
                 "minecraft:dragons_breath_magenta"
                 ,
-                "nitros_dye_mixing:charcoal_coal"
-                ,
                 "nitros_dye_mixing:bone_coal"
                 ,
                 "nitros_dye_mixing:bone_coal_block"
@@ -103,11 +101,7 @@
                 ,
                 "minecraft:green_mixing"
                 ,
-                "minecraft:cactus_green"
-                ,
                 "minecraft:cactus_green_smoker"
-                ,
-                "minecraft:cactus_green_blasting"
                 ,
                 "minecraft:cactus_green_campfire"
                 ,
@@ -298,6 +292,132 @@
                 "nitros_dye_mixing:dye_cut_sandstone_red"
                 ,
                 "nitros_dye_mixing:any_wood_lectern"
+                ,
+                "nitros_dye_mixing:more_bricks"
+                ,
+                "nitros_dye_mixing:more_nether_bricks"
+                ,
+                "nitros_dye_mixing:more_red_nether_bricks_1"
+                ,
+                "nitros_dye_mixing:more_red_nether_bricks_2"
+                ,
+                "nitros_dye_mixing:netherack_bricks"
+                ,
+                "nitros_dye_mixing:netherrack_red_bricks"
+                ,
+                "nitros_dye_mixing:stone_tnt_minecarts"
+                ,
+                "nitros_dye_mixing:stone_hopper_minecarts"
+                ,
+                "nitros_dye_mixing:stone_chest_minecart"
+                ,
+                "nitros_dye_mixing:stone_furnace_minecart"
+                ,
+                "nitros_dye_mixing:stone_rails"
+                ,
+                "nitros_dye_mixing:stone_detector_rails"
+                ,
+                "nitros_dye_mixing:barrel_slabs"
+                ,
+                "nitros_dye_mixing:log_sticks"
+                ,
+                "nitros_dye_mixing:log_chests"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_stripped_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_stripped_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_stripped_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_stripped_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_stripped_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_logs_to_bark_stripped_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_bark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_bark_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_bark_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_bark_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_bark_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_stripping_bark_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_slabs_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_slabs_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_slabs_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_slabs_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_slabs_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_slabs_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_stairs_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_stairs_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_stairs_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_stairs_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_stairs_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_stairs_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fences_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fences_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fences_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fences_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fences_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fences_dark_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fence_gates_oak"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fence_gates_spruce"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fence_gates_birch"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fence_gates_jungle"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fence_gates_acacia"
+                ,
+                "nitros_dye_mixing:sawmill_stonecutter_log_fence_gates_dark_oak"
                 
         ]
     }
