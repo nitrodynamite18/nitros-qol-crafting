@@ -1,23 +1,28 @@
 {
   "group": "bookshelf",
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
       "item": "minecraft:book"
     },
-    {
+    "3": {
       "item": "minecraft:book"
     },
-    {
+    "4": {
       "tag": "minecraft:planks"
     },
-    {
+    "5": {
       "item": "minecraft:book"
     },
-    {
+    "7": {
       "item": "minecraft:book"
     }
-  ],
+  },
   "result": {
     "item": "minecraft:bookshelf",
     "count": 1

@@ -1,29 +1,34 @@
 {
   "group": "dispenser",
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "0": {
       "item": "minecraft:string"
     },
-    {
+    "1": {
       "item": "minecraft:stick"
     },
-    {
+    "3": {
       "item": "minecraft:string"
     },
-    {
+    "4": {
       "item": "minecraft:dropper"
     },
-    {
+    "5": {
       "item": "minecraft:stick"
     },
-    {
+    "6": {
       "item": "minecraft:string"
     },
-    {
+    "7": {
       "item": "minecraft:stick"
     }
-  ],
+  },
   "result": {
     "item": "minecraft:dispenser",
     "count": 1
